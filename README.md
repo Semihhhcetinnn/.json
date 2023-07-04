@@ -1,2 +1,2 @@
-# .json
-Girişimci ve planlama uzmanı 
+semihctn26#.json
+Girişimci ve planlama uzmanı. 
